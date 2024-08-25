@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Máy Tính</string>
+    <string name="result">Kết Quả</string>
+    <string name="plus" > + </string>
+</resources>
